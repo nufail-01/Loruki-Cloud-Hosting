@@ -1,19 +1,20 @@
-# Loruki-Cloud-Hosting
+# 🚀 Loruki-Cloud-Hosting
 
-## Project Overview
-Loruki-Cloud-Hosting is a simple, fully responsive cloud hosting website clone built using only **HTML** and **CSS**. This project is a great way to practice front-end development skills and learn how to create clean, modern, and mobile-friendly web pages.
+## 📋 Project Overview
+Loruki-Cloud-Hosting is a simple, **fully responsive** cloud hosting website clone built using only **HTML** and **CSS**.  
+This project helps improve front-end skills by creating a clean, modern, and mobile-friendly design.
 
-## Features
-- **Responsive Design:** Works seamlessly on desktop, tablet, and mobile devices.
-- **Clean Layout:** Simple and intuitive user interface.
-- **Static Website:** No backend or JavaScript involved, making it lightweight and fast.
-- **Cross-Browser Compatible:** Tested on modern browsers for consistent experience.
+## ✨ Features
+- 📱 **Responsive Design:** Optimized for desktop, tablet, and mobile devices  
+- 🎨 **Clean Layout:** Intuitive and user-friendly interface  
+- ⚡ **Lightweight:** Pure static website without any backend  
+- 🌐 **Cross-Browser Compatible:** Works well on all modern browsers  
 
-## Technologies Used
-- HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)  
 
-## How to Use
-1. Clone the repository to your local machine:
+## 🚀 How to Use
+1. Clone the repository:  
    ```bash
    git clone https://github.com/nufail-01/Loruki-Cloud-Hosting.git
