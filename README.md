@@ -1,12 +1,12 @@
 # ☁️ Loruki-Cloud-Hosting
 
-**🎯 Third project completed:** a responsive, multi-page cloud hosting website built using only **HTML** and **CSS**.
+**🎯 Third practice project completed:** a responsive, multi-page cloud hosting website built using only **HTML** and **CSS**.
 
 ---
 
 ## 🚀 About
 
-Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hosting service. Built entirely with HTML and CSS, this project helped me advance my front-end skills with a focus on responsive design and user experience.
+Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hosting service. Built entirely with HTML and CSS, this project helped me advance my front-end skills with a focus on responsive design, animations, and user experience.
 
 ---
 
@@ -14,6 +14,7 @@ Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hos
 
 - 📄 Multi-page layout structure & navigation  
 - 📱 Responsive design using media queries  
+- 🎞️ Effective use of CSS animations to enhance UI  
 - ♿ Semantic HTML for better accessibility  
 - 🎨 CSS styling for consistent and flexible UI  
 
@@ -22,7 +23,7 @@ Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hos
 ## ✨ Highlights
 
 - 📱 Responsive across all device sizes (mobile/tablet/desktop)  
-- 🎨 Clean and modern design  
+- 🎨 Clean and modern design with smooth animations  
 - ⚡ No JavaScript or frameworks used  
 - 💡 Practical frontend experience  
 
@@ -42,6 +43,6 @@ Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hos
 
 ## 🧠 Reflection
 
-Each project I finish increases my confidence and skill as a developer. Using just HTML and CSS to create professional, responsive websites proves how powerful foundational web technologies can be. Turning concepts into live projects is always exciting! 🔥
+Each project I finish increases my confidence and skill as a developer. Using just HTML and CSS — along with animations — to create professional, responsive websites proves how powerful foundational web technologies can be. Turning concepts into live projects is always exciting! 🔥
 
 ---
