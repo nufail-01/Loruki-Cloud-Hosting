@@ -1,20 +1,47 @@
-# 🚀 Loruki-Cloud-Hosting
+# ☁️ Loruki-Cloud-Hosting
 
-## 📋 Project Overview
-Loruki-Cloud-Hosting is a simple, **fully responsive** cloud hosting website clone built using only **HTML** and **CSS**.  
-This project helps improve front-end skills by creating a clean, modern, and mobile-friendly design.
+**🎯 Third project completed:** a responsive, multi-page cloud hosting website built using only **HTML** and **CSS**.
 
-## ✨ Features
-- 📱 **Responsive Design:** Optimized for desktop, tablet, and mobile devices  
-- 🎨 **Clean Layout:** Intuitive and user-friendly interface  
-- ⚡ **Lightweight:** Pure static website without any backend  
-- 🌐 **Cross-Browser Compatible:** Works well on all modern browsers  
+---
 
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3 (Flexbox, Grid, Media Queries)  
+## 🚀 About
 
-## 🚀 How to Use
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/nufail-01/Loruki-Cloud-Hosting.git
+Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hosting service. Built entirely with HTML and CSS, this project helped me advance my front-end skills with a focus on responsive design and user experience.
+
+---
+
+## 🛠️ Key Learnings
+
+- 📄 Multi-page layout structure & navigation  
+- 📱 Responsive design using media queries  
+- ♿ Semantic HTML for better accessibility  
+- 🎨 CSS styling for consistent and flexible UI  
+
+---
+
+## ✨ Highlights
+
+- 📱 Responsive across all device sizes (mobile/tablet/desktop)  
+- 🎨 Clean and modern design  
+- ⚡ No JavaScript or frameworks used  
+- 💡 Practical frontend experience  
+
+---
+
+## 🌐 Live Demo
+
+[🔗 View Live Preview](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
+
+---
+
+## 💻 Source Code
+
+[🔗 GitHub Repository](https://github.com/nufail-01/Loruki-Cloud-Hosting)
+
+---
+
+## 🧠 Reflection
+
+Each project I finish increases my confidence and skill as a developer. Using just HTML and CSS to create professional, responsive websites proves how powerful foundational web technologies can be. Turning concepts into live projects is always exciting! 🔥
+
+---
