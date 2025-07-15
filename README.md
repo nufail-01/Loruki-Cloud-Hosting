@@ -47,5 +47,6 @@ Each project I finish increases my confidence and skill as a developer. Using ju
 
 ---
 
-[![Website Preview](assets/images.lorukiwebsite.png)](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
+[![Website Preview](assets/images/lorukiwebsite.png
+)](https://nufail-01.github.io/Loruki-Cloud-Hosting/)
 
