@@ -36,6 +36,20 @@ Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hos
 
 ---
 
+Loruki-Cloud-Hosting/
+│
+├── assets/                  # Contains all static files such as images and logos
+│   ├── images/              # All website images
+│   └── logo/                # Logo files
+│
+├── docs.html                # Documentation page
+├── features.html            # Features page
+├── index.html               # Main landing page
+├── style.css                # CSS stylesheets
+└── README.md                # Project overview and instructions
+
+---
+
 ## 💻 Source Code
 
 [🔗 GitHub Repository](https://github.com/nufail-01/Loruki-Cloud-Hosting)
