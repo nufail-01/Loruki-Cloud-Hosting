@@ -38,14 +38,14 @@ Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hos
 
 Loruki-Cloud-Hosting/
 │
-├── assets/                  # Contains all static files such as images and logos
-│   ├── images/              # All website images
+├── assets/                  # Static resources like images and logos
+│   ├── images/              # Website images
 │   └── logo/                # Logo files
 │
 ├── docs.html                # Documentation page
 ├── features.html            # Features page
-├── index.html               # Main landing page
-├── style.css                # CSS stylesheets
+├── index.html               # Homepage
+├── style.css                # Stylesheet for the website
 └── README.md                # Project overview and instructions
 
 ---
