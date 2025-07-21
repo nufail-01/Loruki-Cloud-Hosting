@@ -35,6 +35,7 @@ Loruki-Cloud-Hosting is a fully responsive website designed to mimic a cloud hos
 - 💡 Practical frontend experience  
 
 ---
+## 📂 Folder Structure
 
 Loruki-Cloud-Hosting/
 │
