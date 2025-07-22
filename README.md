@@ -61,4 +61,8 @@ Loruki-Cloud-Hosting/
 
 Each project I finish increases my confidence and skill as a developer. Using just HTML and CSS — along with animations — to create professional, responsive websites proves how powerful foundational web technologies can be. Turning concepts into live projects is always exciting! 🔥
 
+---
 
+## 🤝 Connect with Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
