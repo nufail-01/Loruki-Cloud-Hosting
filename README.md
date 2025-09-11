@@ -57,8 +57,6 @@ Loruki-Cloud-Hosting/
 
 ---
 
-## 🧠 Refle
-
 ## 🤝 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/nufailshaikh/) 
